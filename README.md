@@ -49,4 +49,4 @@
 ---
 
 ## 📜 Report
-Final EDA findings are documented in [`titanic_eda-report.pdf`](titanic_eda_report.pdf).
+Final EDA findings are documented in [`titanic_eda-report.pdf`](titanic_eda-report.pdf).
